@@ -6,3 +6,5 @@
     created database and to push changes from.
 3. Created a ReadMe.md to annotate code changes for numerically
     identified commits.
+3.a. Modifications to ReadMe.md that bring it more inline with MarkDown
+        style recommendations.
